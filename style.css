@@ -14,4 +14,7 @@ body {
     background-repeat: no-repeat;
     background-position: center;
     display: block;
+    filter: blur(10px);
+    -webkit-filter: blur(10px);
+    
 }
