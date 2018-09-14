@@ -132,7 +132,7 @@ footer p {
 @media (max-height: 500px) {
     .content .title
     .content .text {
-        dislplay: none;
+        display: none;
     }
 
     .content {
