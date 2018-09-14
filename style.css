@@ -128,5 +128,16 @@ footer p {
     }
 }
 
+/* Landscape */
+@media (max-height: 500px) {
+    .content .title
+    .content .text {
+        dislplay: none;
+    }
+
+    .content {
+        top: 0;
+    }
+}
 
 
