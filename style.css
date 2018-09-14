@@ -108,6 +108,15 @@ footer p {
     top: 5%;
     margin-top: 5px;
 }
+
+.content .logo {
+    height: 140px;
+    width: 140px;
+}
+
+.content .text {
+    display: none;
+}
 }
 
 
