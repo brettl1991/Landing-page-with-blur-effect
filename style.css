@@ -98,5 +98,17 @@ footer p {
     margin: 0;
 }
 
+/* Small Screens */
+@media (max-widht: 560 px) {
+ .showcase::after {
+    height: 50vh;
+}
+
+.content {
+    top: 5%;
+    margin-top: 5px;
+}
+}
+
 
 
