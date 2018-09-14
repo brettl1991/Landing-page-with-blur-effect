@@ -22,5 +22,18 @@ body {
 .showcase:hover::after {
     filter: blur(0px);
     -webkit-filter: blur(0px);
-    
+}
+
+.content {
+    position: absolute;
+    z-index: 1;
+}
+
+.content .logo {
+    height: 180px;
+    width: 180px;
+}
+
+.content .text {
+
 }
