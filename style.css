@@ -5,3 +5,13 @@ body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 }
 
+.showcase::after {
+    content: '';
+    height: 100vh;
+    width: 100%;
+    background-image: url(showcase.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+    display: block;
+}
