@@ -1,0 +1,22 @@
+{
+  "name": "landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/brettl1991/Landing-page-with-blur-effect.git"
+  },
+  "author": "Agnes Brettl",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brettl1991/Landing-page-with-blur-effect/issues"
+  },
+  "homepage": "https://github.com/brettl1991/Landing-page-with-blur-effect#readme",
+  "dependencies": {
+    "gh-pages": "^2.0.1"
+  }
+}
